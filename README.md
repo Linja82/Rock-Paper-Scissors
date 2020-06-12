@@ -10,3 +10,6 @@ All individual files are listed. However, to maintain the file structure for the
 Start screen.  
 <img src = "https://github.com/Linja82/Rock-Paper-Scissors/blob/master/Screenshots/Game%20Screen.PNG">
 Game screen.
+
+# Links to Art
+<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by freepik - www.freepik.com</a>
