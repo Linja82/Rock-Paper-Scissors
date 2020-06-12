@@ -6,4 +6,7 @@ The Pygame library is used in this program.
 All individual files are listed. However, to maintain the file structure for the program you can download and extract the ".rar" file instead.
 
 # Screenshots
-<img src = "https://github.com/Linja82/Rock-Paper-Scissors/blob/master/Screenshots/Start%20Screen.PNGhttps://github.com/Linja82/Rock-Paper-Scissors/blob/master/Screenshots/Start%20Screen.PNG">
+<img src = "https://github.com/Linja82/Rock-Paper-Scissors/blob/master/Screenshots/Start%20Screen.PNG">
+Start screen.
+<img src = "https://github.com/Linja82/Rock-Paper-Scissors/blob/master/Screenshots/Game%20Screen.PNG">
+Game screen.
