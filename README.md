@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-A Rock, Paper, Scissors game built in Python.
+A Rock, Paper, Scissors game built in Python.  
 The Pygame library is used in this program.
 
 # Install Instructions
