@@ -7,6 +7,6 @@ All individual files are listed. However, to maintain the file structure for the
 
 # Screenshots
 <img src = "https://github.com/Linja82/Rock-Paper-Scissors/blob/master/Screenshots/Start%20Screen.PNG">
-Start screen.
+Start screen.  
 <img src = "https://github.com/Linja82/Rock-Paper-Scissors/blob/master/Screenshots/Game%20Screen.PNG">
 Game screen.
